@@ -2,7 +2,7 @@
 
 ### TODO
 
-```TreiRad.java```
+`TreiRad.java`
 
 - Spelet ska ha stöd för att spela mot datorspelare som slumpar fram sina drag
 - Spelet ska vara flexibelt så att det enkelt går att ändra i koden eller med indata hur många rutor spelplanen är
